@@ -1,14 +1,14 @@
 {
-	"landing"; {
-		"firstName"; "Jackeline",
-		"lastName"; "Barrios",
-		"phoneNumber"; "n/a",
-		"bio"; "I am a full stack bootcamp student at Northwestern University. Born and raised in Chicago with a bakground in accounting.",
-    "email"; "n/a",
-    "linkedin"; "n.a",
-		"github"; "https://github.com/jack-ie"
-	}
-	"experience"; [
+	"landing": {
+		"firstName": "Jackeline",
+		"lastName": "Barrios",
+		"phoneNumber": "n/a",
+		"bio": "I am a full stack bootcamp student at Northwestern University. Born and raised in Chicago with a bakground in accounting.",
+    "email": "n/a",
+    "linkedin": "n.a",
+		"github": "https://github.com/jack-ie"
+	},
+	"experience": [
 		{
 			"position": "Accountant",
 			"organization": "NWIN",
@@ -17,7 +17,7 @@
 			"toDate": "Present"
 		}
 	],
-	"education"; [{
+	"education": [{
 			"university": "n/a",
 			"degree": "n/a",
 			"gpa": "n/a",
@@ -25,7 +25,7 @@
 			"toDate": "n/a"
 		}
 	],
-	"skills"; [{
+	"skills": [{
 			"name": "HTML5"
 		},
 		{
@@ -39,15 +39,15 @@
 		},
 		{
 			"name": "Nodejs"
-		},
+		}
 		
 	],
-	"interests"; {
-		"paragraphOne"; "n/a",
-		"paragraphTwo"; "n/a"
-	}
-	"awards"; [{
+	"interests": {
+		"paragraphOne": "n/a",
+		"paragraphTwo": "n/a"
+	},
+	"awards": [{
 			"awardDetail": "n/a"
-		},
+		}
 	]
 }
